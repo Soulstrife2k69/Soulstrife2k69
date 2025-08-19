@@ -8,13 +8,10 @@
 
 ## 🌱 Currently Learning  
 - Advanced **AI & ML models**  
-- **Networking with Cisco Packet Tracer**  
-- Building scalable **full-stack apps**  
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, Java, C  
-- **Web Dev:** React, Node.js, Express, MongoDB  
-- **AI/ML:** Scikit-Learn, TensorFlow, NLP basics  
+- **Web Dev:** React, Node.js, Express, MongoDB   
 - **Tools:** GitHub, VS Code, Cisco Packet Tracer  
 
 ## 📌 Featured Projects  
